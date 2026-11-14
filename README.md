@@ -1,5 +1,9 @@
 # Washer Card
 
+![Washer Card preview](docs/images/preview.png)
+
+*Rendered from the card code with example data (no real Home Assistant).*
+
 Lovelace card (`custom:home-twin-waschmaschine-card`) to control and monitor a Haier washing machine (hOn) through the **Washer Control** integration (`washer_control_ha_integration`, domain `washer_control`).
 
 UI language: German.
